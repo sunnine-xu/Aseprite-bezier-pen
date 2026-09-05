@@ -1,0 +1,1 @@
+{"name":"bezier-pen","displayName":"貝茲鋼筆 Bezier Pen","description":"可保存錨點與控制柄的貝茲路徑編輯器","version":"0.1.1","author":{"name":"Bezier Pen contributors"},"publisher":"bezier-pen","license":"MIT","categories":["Scripts"],"contributes":{"scripts":[{"path":"editor.lua"}]}}
